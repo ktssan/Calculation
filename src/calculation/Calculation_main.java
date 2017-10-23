@@ -21,7 +21,6 @@ public class Calculation_main {
                     
           System.out.println("m / n ="+clib.getDivide());
           
-          
           System.out.println("m % n ="+clib.getMod());
 	}
 
